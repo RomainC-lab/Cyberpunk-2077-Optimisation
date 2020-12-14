@@ -1,7 +1,7 @@
 # Cyberpunk-Optimisation
 
   - [Introduction](#introduction)
-  - [Installation de ce repot](#installation-de-ce-repot)
+  - [Installation de ce repo](#installation-de-ce-repo)
   - [Cyberpunk Paramètre](#cyberpunk-paramètre)
   - [Pool de mémoire (memory_pool_budgets.csv)](#pool-de-mémoire-memory_pool_budgetscsv)
   - [CPU AMD et Intel](#cpu-amd-et-intel)
@@ -12,8 +12,8 @@
 ## Introduction
 Cyberpunk est un beau jeu et, contrairement aux idées reçues, il est assez bien optimisé. Mais la sortie de Cyberpunk a été clairement précipitée et il y a des problèmes flagrants qui doivent être résolus.
 
-## Installation de ce repot
-1. Allez dans le dossier de votre jeux Ex. "C:\Program Files (x86)\GOG Galaxy\Games\Cyberpunk 2077\bin\x64".
+## Installation de ce repo
+1. Allez dans le dossier de votre jeux Ex. "C:\Program Files (x86)\GOG Galaxy\Games\Cyberpunk 2077".
 2. Coller tout les fichier Téléchargé dans ce dossier.
 3. Ajuster les paramètres [CPU AMD et Intel](#cpu-amd-et-intel)
 
