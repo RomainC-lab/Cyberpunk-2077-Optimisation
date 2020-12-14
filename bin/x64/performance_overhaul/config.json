@@ -1,0 +1,8 @@
+{
+    "avx": false,
+    "memory_pool": true,
+    "smt": true,
+    "spectre": true,
+    "unlock_menu": false,
+    "virtual_input": true
+}
