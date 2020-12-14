@@ -8,7 +8,7 @@
   - [GPU Nvidia](#gpu-nvidia)
   - [Clavier AZERTY](#clavier-azerty)
   - [Reshader](#reshader)
-  - 
+
 ## Introduction
 Cyberpunk est un beau jeu et, contrairement aux idées reçues, il est assez bien optimisé. Mais la sortie de Cyberpunk a été clairement précipitée et il y a des problèmes flagrants qui doivent être résolus.
 
@@ -20,7 +20,7 @@ Cyberpunk est un beau jeu et, contrairement aux idées reçues, il est assez bie
 ## Cyberpunk Paramètre
 Tout d'abord, je vais commencer par les paramètres généraux et leurs publics cibles.
 - Les réglages bas sont évidemment destinés aux systèmes à faible consommation d'énergie.
-- Les réglages moyens sont en fait destinés au standard moderne des systèmes de milieu de gamme. Utilisez des paramètres moyens si vous jouez à 1080p, en particulier une résolution de texture. Si vous jouez à 1080p et que vous utilisez d- [Cyberpunk-Optimisation]es paramètres de texture élevés, vous filmez votre FPS dans le pied pour à peine des gains visuels.
+- Les réglages moyens sont en fait destinés au standard moderne des systèmes de milieu de gamme. Utilisez des paramètres moyens si vous jouez à 1080p, en particulier une résolution de texture. Si vous jouez à 1080p et que vous utilisez les paramètres de texture élevés, vous filmez votre FPS dans le pied pour à peine des gains visuels.
 - Les réglages High et Ultra sont destinés à la 4K. Comme dans, vous auriez besoin d'un moniteur 4K pour voir même ce que font même les paramètres élevés ou ultra. Les seules exceptions à cela sont la qualité de l'ombre, le niveau de détail, les effets de prétraitement et de post-traitement (précision des couleurs, anticrénelage, RTX, DLSS, SSAO, SSS, Volumetrics).
 
 ## Pool de mémoire (memory_pool_budgets.csv)
